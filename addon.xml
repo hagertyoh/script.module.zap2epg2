@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.zap2epg2" name="zap2epg2" version="2.2.4" provider-name="hagertyoh">
+<addon id="script.module.zap2epg2" name="zap2epg2" version="02262026" provider-name="hagertyoh">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.dateutil" version="2.8.2"/>
@@ -52,4 +52,5 @@ Setup:
     </assets>
   </extension>
 </addon>
+
 
