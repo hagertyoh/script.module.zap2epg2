@@ -1,21 +1,21 @@
-2023-03-18
- - update for Nexus
+v2.2.1 (2025-07-21)
+ - Fixed api call to gracenote missing a few parameters
+ - Fixed spelling in genres
+ - Fixed whitespace in parts of code for better reading and consistancy
 
-v2.0.3 (2021-05-23)
- - fix channel configuration error
+v2.2.0 (2025-07-14)
+ - Updated EPG website to the current website.
+ - Updated the code to connect to TVH.  Using request (instead of requests) framework so LibreElec users can use the addon.
+ - Added HTTP digest authentication (still a small bug in code)
+ - Added logger python script to log from all python scripts instead of just the main script.
+ - Added back NEW / LIVE / PREMIERE tags in the EPG description.
 
-v2.0.2 (2021-03-29)
- - fix Tvheadend username and password option
-
-v2.0.1 (2021-02-25)
- - Kodi 19 dialog fix
-
-v2.0.0 (2020-10-27)
- - Python3 update
+v1.3.1 (2020-10-29)
+ - remove doctype error for TVH on OSMC
 
 v1.3.0 (2019-04-12)
  - fix server issues for lineups
-
+ 
 v1.2.0 (2019-03-04)
  - add option to refresh download cache days
 
